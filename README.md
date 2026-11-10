@@ -7,17 +7,17 @@ This skill gives Claude the full [Ghosted](https://www.lorikeetcx.ai/content/gho
 ## What you can ask
 
 - **Get the numbers.** "Do customers give any warning before they cancel?"
-- **Size it for your business.** "We're an insurer losing 40,000 customers a year. How much revenue are we leaving on the table?"
+- **Size it for your business.** "We're an insurer losing 40,000 customers a year. How many could we have caught in time?"
 - **Score your setup.** Describe how you spot and handle customers who might leave and ask "Are we acting in the retention window?" Claude scores it against the report's findings (signal watching, timing of outreach, what outreach leads with, memory, measurement) and ranks your next 3 steps.
 - **Decide what to do.** "Should our save desk lead with a discount or with fixing the problem?"
 
-Claude answers with the report's figures and its caveats: why getting in touch doesn't on its own make customers stay, why the fix vs. sell comparison is directional, and why the revenue figure is an estimate, not a forecast.
+Claude answers with the report's figures and its caveats: why getting in touch doesn't on its own make customers stay, and why the fix vs. sell comparison is directional.
 
 Once installed, call it directly with `/ghosted-report`, for example: `/ghosted-report Are we acting in the retention window?`
 
 ## What's inside
 
-- All seven findings: customers take weeks to leave, they show it, almost none hear from their provider in time, what providers say matters, one fix would have kept them, attention only on the way out, and the revenue that walked out the door
+- All six findings: customers take weeks to leave, they show it, almost none hear from their provider in time, what providers say matters, one fix would have kept them, and attention only on the way out
 - Chart data: time to leave, signals before leaving, whether the provider got in touch, stay rate by kind of contact, what would have kept them, paired statements
 - Methodology, the idea in brief, verbatim customer quotes, what acting in the window means, and the five priorities for leaders
 

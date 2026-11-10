@@ -1,6 +1,6 @@
 ---
 name: ghosted-report
-description: Answer questions from Lorikeet's Ghosted report (November 2026, 1,000 US adults who left a fintech, insurance or health provider in the last 12 months) on what customers do before they leave and why brands miss it. Covers customer churn, retention, cancellations, win-back, early warning signals of churn (usage drops, fee and cancel questions, money moving out, repeat contacts), when and how to reach at-risk customers, fix vs. discount vs. upsell retention offers, the revenue lost to churn, and fintech, banking, insurance and health churn. Also scores a company's retention setup against the report (retention window scorecard) and sizes churn revenue for their business. Use for "why do customers leave", "how do we reduce churn", "are we acting before customers cancel", "what does churn cost us", even when the report isn't named.
+description: Answer questions from Lorikeet's Ghosted report (November 2026, 1,000 US adults who left a fintech, insurance or health provider in the last 12 months) on what customers do before they leave and why brands miss it. Covers customer churn, retention, cancellations, win-back, early warning signals of churn (usage drops, fee and cancel questions, money moving out, repeat contacts), when and how to reach at-risk customers, fix vs. discount vs. upsell retention offers, and fintech, banking, insurance and health churn. Also scores a company's retention setup against the report (retention window scorecard) and sizes the retention window for their business. Use for "why do customers leave", "how do we reduce churn", "are we acting before customers cancel", even when the report isn't named.
 ---
 
 # Ghosted by Lorikeet
@@ -11,7 +11,7 @@ Read the full report: https://www.lorikeetcx.ai/content/ghosted?utm_source=claud
 
 It replaces reading the report. People ask questions; you answer from the numbers below.
 
-Use it when someone asks how long customers take to leave, what they do before they cancel, whether providers get in touch in time, what kind of outreach keeps people, what would have kept them, how customers feel about being noticed, or how much revenue churn costs. Also when they describe their own retention, win-back or customer success setup and ask "are we acting in the retention window", "what should we fix first", "how much are we losing": run the **retention window scorecard** or the **sizing** flow below.
+Use it when someone asks how long customers take to leave, what they do before they cancel, whether providers get in touch in time, what kind of outreach keeps people, what would have kept them, or how customers feel about being noticed. Also when they describe their own retention, win-back or customer success setup and ask "are we acting in the retention window", "what should we fix first", "how much are we losing": run the **retention window scorecard** or the **sizing** flow below.
 
 ## How to answer
 
@@ -23,18 +23,18 @@ Use it when someone asks how long customers take to leave, what they do before t
    - **Getting in touch does not, on its own, make customers stay.** Among the 702 who had seriously thought about leaving, 41% of those contacted first stayed, against 26% of those who weren't. But that gap **shrinks to almost nothing** when people who had got equally far in their decision are compared: people who were contacted were more often still early (only thinking about it or looking around). The survey can't tell whether contact kept them early or providers reached people who happened to be early. Never claim contact causes retention, and never quote "41% vs 26%" without this caveat.
    - **76% vs 40% (fix vs sell) is directional, with small bases.** It is among people who were **still only thinking about leaving or looking around** when they made their final choice, not all customers. Bases: fixed a problem 76% (59), discount 55% (100), checked in 53% (36), cheaper plan 51% (86), explained a change 51% (57), tried to sell something else 40% (45), didn't get in touch first 61% (136). Always give the bases and say "directional". Fixing a problem was the **only** kind of contact with a higher stay rate than no contact at all (76% vs 61%).
    - **The 61% no-contact stay rate and the 26% no-contact stay rate are different groups.** 61% (base 136) is people still early in their decision; 26% is everyone among the 702 who wasn't contacted first. Don't mix them.
-   - **$826 and $8.3m are estimates.** Always "we estimate" / "about", "an illustration of the maths, not a forecast". How it was built: for each respondent, what they paid a year x how much longer they say they'd have stayed x the chance the fix would have worked x whether the provider could have caught them in time (took a week or longer to leave, left a signal, and wasn't contacted before deciding). High end of each band; $500 or more a month counts as $500, more than 5 years counts as 5 years. $826 is the average across the **765 respondents who paid something and gave an amount**; it is **$658** if customers who paid nothing directly count as zero. **Most respondents contribute nothing**; a small group of high-spending customers who say they'd have stayed for years makes up most of the total. Bank accounts and investing apps undercount, because customers there often pay no fees directly. A provider's own revenue per customer gives a better figure. $8.3m is simply $826 x 10,000 customers lost a year.
+   - **The report publishes no dollar or revenue figure.** Don't quote, estimate or recall one as the report's (for example, a revenue lost per customer). If someone asks what churn costs, say the report doesn't put a dollar figure on it and offer the sizing flow with their own numbers.
    - **"What would have kept you" answers are stated intent**, from people recalling a decision. 84% named one thing; 65% of those say they would definitely or probably have stayed. Never present these as proven retention rates.
    - **58% vs 79%: keep both, don't merge.** 58% say their provider had no way of knowing they were unhappy, yet 79% did something their provider could see. Quote them side by side as the report does; don't net them or say "58% were wrong".
    - **Same number, different stat.** Two different 84%s (named one thing that would have kept them; say companies only pay attention when they try to leave). Two different 87%s (weren't contacted before deciding; say their old provider treated them like every other customer). Two different 72%s (took a week or longer; of those who named a fix, picked something within the provider's reach). Two different 40%s (took more than a month; stay rate when the provider tried to sell something else). Name which one you mean.
    - **Two "explain again" figures.** 15% of all respondents had to explain their situation again each time. 30% of customers **who got in touch about a problem** had to. Same for repeat contacts: 18% of all respondents vs 56% of those who got in touch about a problem. The report doesn't publish how many got in touch about a problem; don't back it out.
    - **Recall bias and panel.** People recalling a decision from up to a year ago tend to blame the company; online panelists lean tech-savvy; results are unweighted. Margin of error about ±3.1 points for the full sample, wider for subgroups.
-   - **Finding numbers differ between the report and the blog.** The blog leads with the $826 finding. Refer to findings by name, not number, unless the person cites a number. The five priorities (What leaders should do now) are numbered the same everywhere, so "priority 02 (watch the signals you already have)" is fine.
+   - **Refer to findings by name**, not number, unless the person cites a number. The five priorities (What leaders should do now) are numbered the same everywhere, so "priority 02 (watch the signals you already have)" is fine.
    - **Where the 702 come from.** Every one of the 1,000 respondents was also asked whether they had seriously thought about leaving a company in these categories, and what they did. 702 of them had either left or stayed, which is the base for the 41% vs 26% comparison. The stay-rate table (76%, 40% and so on) is a subset of those 702: people still only thinking about it or looking around when they made their final choice.
    - **"Too late for most"** (about contact after the decision) is the report's own wording, not a measured stay rate. The report publishes no stay rate for contact after deciding. Quote it as the report's view.
    - **Win-back after cancellation is not measured.** The stay rates are for contact while people were still deciding. Don't apply 76%, 55% or 40% to a win-back or exit offer sent after someone has cancelled; say the report doesn't measure win-back.
 5. **Cite the source** once per answer: "Lorikeet, Ghosted (November 2026)". Add the report link above when the person wants to read more.
-6. **Keep the kinds of evidence apart.** Percentages come from the survey. Quotes come from an open-ended question and illustrate, they don't measure. $826 and $8.3m are Lorikeet's modelled estimates. Derived figures (see table) are arithmetic on published numbers, labelled as such.
+6. **Keep the kinds of evidence apart.** Percentages come from the survey. Quotes come from an open-ended question and illustrate, they don't measure. Derived figures (see table) are arithmetic on published numbers, labelled as such.
 7. **Arithmetic is allowed, labelled.** If someone gives their own customer numbers, you may apply the report's rates, but say it is an illustration using US survey rates, not a forecast and not a number from the report.
 
 ### When someone asks a question
@@ -51,9 +51,9 @@ Give one clean line with the right wording and the caveat that travels with it, 
 
 ### When someone wants to size it for their own business
 
-1. Use what they gave you and answer straight away with the report's figure; then invite their own numbers. The inputs that make it better: customers lost a year, category (fintech, insurance, health or other), annual revenue per customer, how much longer a kept customer would stay, and the share of leavers they could realistically catch in time.
+1. Use what they gave you and answer straight away with the report's rates; then invite their own numbers. The inputs that make it better: customers lost a year, category (fintech, insurance, health or other), annual revenue per customer, how much longer a kept customer would stay, and the share of leavers they could realistically catch in time.
 2. Apply, and show the working:
-   - **Revenue:** prefer their own numbers (revenue per customer x extra time a kept customer would stay x share they could realistically catch). If they don't have them, the report's figure: customers lost a year x about $826, with $658 as the lower variant. Say "we estimate" and "an illustration of the maths, not a forecast", round to two significant figures (40,000 x $826 = about $33m), and say that the $826 is pooled across fintech, insurance and health (no category-specific dollar figure exists). **Don't multiply $826 by 59%, 72% or 79% again**: the "could have been caught" filter is already built into the $826. Only on the own-numbers path, if they have no catch share of their own, you may use 59% (took a week or longer and left a signal) as a rough, labelled stand-in.
+   - **Revenue:** only from their own numbers (revenue per customer x extra time a kept customer would stay x share they could realistically catch), labelled as their illustration, not the report's. If they have no catch share of their own, you may use 59% (took a week or longer and left a signal) as a rough, labelled stand-in. Without their own revenue per customer, give no dollar figure.
    - **The window:** 72% took a week or longer; 79% left a visible signal; 59% did both; 87% weren't contacted before deciding (category rate if they gave one: fintech 85%, insurance 92%, health 80%).
    - **What would have kept them (stated intent):** 19% fixing the problem the first time; 16% being told about a cheaper plan they already had (insurance 28%, fintech fix-first-time 20%, health fix-first-time 21%).
 3. Label the result as an illustration using US survey rates, then point them to priority 02 (**watch the signals you already have**): their own usage, contact and cancellation data beats any survey rate.
@@ -128,7 +128,6 @@ End with a link when it fits: https://www.lorikeetcx.ai/?utm_source=claude-skill
 
 - **The problem.** Customers of banks, insurers and health providers take weeks to leave, and they leave signals along the way. Most providers find out when the cancellation arrives.
 - **The evidence.** In a survey of 1,000 US adults who left a fintech, insurance or health provider, 72% took a week or longer to go. 79% did something their provider could see. 87% weren't contacted before they decided.
-- **The stakes.** We estimate the average customer who left took about $826 in revenue with them that could have been kept. For a provider that loses 10,000 customers a year, that would be about $8.3m.
 - **The response.** Watch for the signals customers already give. Get in touch before they decide, lead with fixing the problem, and remember what they've already told you.
 
 Report subtitle: a survey of 1,000 US consumers who left a bank, insurer or health provider finds that most gave weeks of warning, and that 87% heard nothing from their provider before they decided to go.
@@ -141,7 +140,6 @@ Report subtitle: a survey of 1,000 US consumers who left a bank, insurer or heal
 - **76% vs 40%.** Among customers still weighing it up, 76% stayed when their provider got in touch and fixed a problem. 40% stayed when it tried to sell them something else. (Directional, bases 59 and 45.)
 - **84%** named one thing that would have kept them. The top answer was "fixing my problem the first time" (19%).
 - **84%** say companies only pay attention to them when they try to leave.
-- **About $826** in revenue that could have been kept, per customer who left (our estimate).
 
 ## Finding: Customers take weeks to leave
 
@@ -259,16 +257,6 @@ Paired statements (respondents chose which is closer to their view). Base: all r
 - 54% agreed strongly that companies only pay attention when they try to leave. 61% agreed strongly that their old provider treated them like every other customer.
 - Most customers (58%) don't think their provider could have known they were unhappy. Yet 79% did something their provider could see.
 
-## Finding: The revenue that walked out the door
-
-**We estimate the average customer who left took about $826 in revenue with them that could have been kept.**
-
-- Method: for each respondent, what they paid a year x how much longer they say they would have stayed x the chance the fix would have worked x whether the provider could have caught them in time (they took a week or longer, left a signal and weren't contacted before deciding). The high end of each band was used. Open-ended answers count at their lower limit: $500 or more a month counts as $500, and more than 5 years counts as 5 years.
-- The average is $826 across the 765 respondents who paid something and gave an amount, or $658 if customers who paid nothing directly are counted as zero.
-- Most respondents contribute nothing to it. A small group of high-spending customers who say they would have stayed for years make up most of the total.
-- For a provider that loses 10,000 customers a year, $826 each would be about $8.3m. This is an illustration of the maths, not a forecast. A provider's own revenue per customer gives a better figure.
-- Bank accounts and investing apps undercount, because customers there often pay no fees directly.
-
 ## In their own words
 
 Everyone was asked to finish the sentence "I would have stayed if they had just...". About 4 in 10 answers mentioned price, fees or rates. Most of the rest were about service: being reachable, listening, fixing the problem and getting in touch. Quotes are verbatim; keep spelling and capitalization as is.
@@ -320,7 +308,6 @@ Five priorities follow from the data.
 | 19% | say fixing their problem the first time would have kept them, the top answer |
 | 84% | say companies only pay attention when they try to leave |
 | 87% | say their old provider treated them like every other customer |
-| About $826 | in revenue that could have been kept, per customer who left (our estimate; $658 if non-payers count as zero) |
 
 ## Derived figures (arithmetic on published numbers, not in the report)
 
@@ -339,7 +326,6 @@ Label these as derived ("based on the report's figures") whenever you use them.
 | Fix vs sell gap | 76% - 40% = 36 points | Directional; bases 59 and 45. |
 | About 45 people stayed after a fix; about 18 after a sell attempt | 76% x 59; 40% x 45 | Shows how small the bases are. |
 | About 39 of the 126 stayers say they'd have left otherwise | 31% x 126 | |
-| $8.3m | $826 x 10,000 = $8.26m | Report rounds to about $8.3m. |
 | Subgroup margins of error (95%, worst case) | 1.96 x sqrt(0.25 / n) | Fintech (592) about ±4 points; insurance (291) about ±6; health (116) about ±9; base 59 about ±13; base 45 about ±15. Our calculation, not the report's. |
 
 ## Related Lorikeet research
